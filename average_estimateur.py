@@ -1,7 +1,8 @@
-import numpy as np
+
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
+import numpy as np
 '''
 Parameters of true model
 '''
